@@ -2,7 +2,7 @@ I am 25 years old Argentinian developer. I am currently focused on full stack we
 
 
 
-Here are some ideas to get you started:
+
 
 -🔭 I’m currently studying on Henry Bootcamp
 
