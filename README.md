@@ -1,4 +1,4 @@
-I am 25 years old Argentinian developer. I am currently focused on full stack web development and learn new technologies to improve my skills. The past 2021 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!! 👋
+I am a 25 years old developer from Argentina. I'm currently focused on full stack web development and learn new technologies to improve my skills. The past 2021 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!! 👋
 
 
 
