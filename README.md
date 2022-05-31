@@ -4,7 +4,7 @@ I am a 25 years old developer from Argentina. I'm currently focused on full stac
 
 
 
--🔭 I’m currently studying on Henry Bootcamp
+-🔭 Graduated from SoyHenry bootcamp. 
 
 📝 Connect with me by Linkedin https://www.linkedin.com/in/mariano-bustos-mor%C3%B3n/
 
